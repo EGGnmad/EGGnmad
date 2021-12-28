@@ -11,7 +11,7 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EGGnmad&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EGGnmad)
 
 <br>
 
