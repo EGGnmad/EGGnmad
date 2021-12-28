@@ -1,7 +1,10 @@
-<div align="right">
+<h3 align="center">
 
-### **Hi, I'm byeong hoon lee** 👋 
+**Hi, I'm byeong hoon lee** 👋 
 
+</h3>
+
+---
 
 <br>
 
@@ -16,5 +19,3 @@
 **📌 Pinned**
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=EGGnmad&repo=K-SchoolMeal)](https://github.com/EGGnmad/K-SchoolMeal)
-
-</div>
