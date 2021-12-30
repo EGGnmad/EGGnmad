@@ -1,6 +1,5 @@
-### **Hi, I'm byeong hoon lee** 👋    
+### **Hi, I'm byeong hoon lee** 👋
 
-<br>
 
 #### 🌱 **I’m currently learning...**
 - Python 
