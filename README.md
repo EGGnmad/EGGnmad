@@ -18,9 +18,3 @@
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EGGnmad&title_color=02343F&text_color=02343F&border_color=d0d7de)
-
-<br>
-
-**📌 Pinned**
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=EGGnmad&repo=K-SchoolMeal&title_color=02343F&text_color=02343F&border_color=d0d7de)](https://github.com/EGGnmad/K-SchoolMeal)
