@@ -5,7 +5,7 @@
 - Python 
 - C
 - C#
-- Kotlin
+- Kotlin (거의 까먹음ㅋㅋ)
 - Java
 - JavaScript
 
